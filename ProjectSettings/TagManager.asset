@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SpawnPoint
+  - Rooms
+  - DungeonRoom
+  - Gun
+  - ShotPoint
+  - Enemy
+  - SceneTransition
+  - Jealousy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - DungeonRooms
+  - DeadSkeletonBones
+  - Player
+  - Enemy
+  - ParticleSystemCollider
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BossBattle2
+    uniqueID: 1132626297
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3000361511
+    locked: 0
+  - name: Skeleton
+    uniqueID: 1146378895
+    locked: 0
